@@ -1,0 +1,37 @@
+div
+{   color:white;
+    height:300px;
+    width:100%;
+
+}
+div.Type1
+{
+    background-color: grey;
+}
+div.Type2
+{
+    background-image:url("images/komalwaterfall.jpg");
+    background-size: cover;
+    background-position: center;
+
+
+}
+div.Type3
+{
+    position: absolute;
+    left: 0px;
+    top: 600px;
+    background-image:url("images/komalmountain.jpg");
+    background-size: cover;
+    background-position: center;
+
+
+}
+div.Type4
+{
+    position: absolute;
+    left: 0px;
+    top: 600px;
+    background-color:red;
+    opacity:0.3;
+}

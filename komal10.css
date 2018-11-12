@@ -1,0 +1,25 @@
+h1
+{
+    font-family: Georgia;
+    font-size:32px;
+    font-weight: bold;
+}
+h2
+{
+    font-family: Georgia;
+    font-size: 18px;
+    color:blue;
+
+}
+p.Paragraph1
+{
+    font-size:16px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+
+}
+p.Paragraph2
+{
+    color: #ff66c1;
+    text-align: left;
+}
